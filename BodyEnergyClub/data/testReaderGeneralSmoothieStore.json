@@ -1,0 +1,33 @@
+{
+    "protein content": 30,
+    "fruits": [
+        {
+            "protein content": 1,
+            "sugar content": 12,
+            "name": "banana",
+            "calories": 89
+        },
+        {
+            "protein content": 2,
+            "sugar content": 8,
+            "name": "cherry",
+            "calories": 97
+        }
+    ],
+    "sugar content": 25,
+    "protein": {
+        "protein content": 24,
+        "sugar content": 1,
+        "name": "Whey Protein",
+        "calories": 120
+    },
+    "name": "My Testing Smoothie",
+    "milk": {
+        "protein content": 3,
+        "sugar content": 4,
+        "name": "Oat Milk Sweetened",
+        "calories": 120,
+        "vegan": true
+    },
+    "calories": 426
+}

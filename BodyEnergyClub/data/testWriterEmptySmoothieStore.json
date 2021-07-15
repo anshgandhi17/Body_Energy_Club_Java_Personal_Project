@@ -1,0 +1,33 @@
+{
+    "protein content": 33,
+    "fruits": [
+        {
+            "protein content": 1,
+            "sugar content": 12,
+            "name": "banana",
+            "calories": 89
+        },
+        {
+            "protein content": 1,
+            "sugar content": 14,
+            "name": "mango",
+            "calories": 60
+        }
+    ],
+    "sugar content": 28,
+    "protein": {
+        "protein content": 30,
+        "sugar content": 2,
+        "name": "Vegan Protein",
+        "calories": 170
+    },
+    "name": "Test smoothie",
+    "milk": {
+        "protein content": 1,
+        "sugar content": 0,
+        "name": "Almond Milk Unsweetened",
+        "calories": 30,
+        "vegan": true
+    },
+    "calories": 349
+}

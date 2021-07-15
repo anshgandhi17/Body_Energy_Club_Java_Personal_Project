@@ -1,0 +1,25 @@
+{
+    "protein content": 27,
+    "fruits": [{
+        "protein content": 1,
+        "sugar content": 10,
+        "name": "apple",
+        "calories": 52
+    }],
+    "sugar content": 11,
+    "protein": {
+        "protein content": 24,
+        "sugar content": 1,
+        "name": "Whey Protein",
+        "calories": 120
+    },
+    "name": "random smoothie",
+    "milk": {
+        "protein content": 2,
+        "sugar content": 0,
+        "name": "Oat Milk Unsweetened",
+        "calories": 100,
+        "vegan": true
+    },
+    "calories": 272
+}

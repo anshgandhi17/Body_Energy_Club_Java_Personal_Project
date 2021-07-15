@@ -1,0 +1,22 @@
+{
+    "protein content": 0,
+    "fruits": [
+
+    ],
+    "sugar content": 0,
+    "protein": {
+        "protein content": 0,
+        "sugar content": 0,
+        "name": "Vegan Protein",
+        "calories": 0
+    },
+    "name": "Test smoothie",
+    "milk": {
+        "protein content": 0,
+        "sugar content": 0,
+        "name": "Almond Milk Unsweetened",
+        "calories": 0,
+        "vegan": true
+    },
+    "calories": 0
+}
